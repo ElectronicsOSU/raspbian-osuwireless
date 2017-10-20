@@ -1,6 +1,7 @@
 ## How to connect a Raspberry Pi (3 or Zero W) running Raspbian to osuwireless
 
-Make a file named wpa_supplicant.conf on the root of the SD card's boot partition with the following content (replace name.# and something-secret with your OSU username and password, keep the quotes).
+Make a file named wpa_supplicant.conf on the root of the SD card's boot partition with the following content...
+(replace name.# and something-secret with your OSU username and password, keep the quotes):
 
 
 ```
